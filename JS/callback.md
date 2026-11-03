@@ -96,5 +96,3 @@ const doubled = numbers.map(function (n) {
 ## One-line summary
 
 > Pass a function when you want **someone else to decide when to run it**. Call a function when you want it to run **right now**.
-
-If you want, I can show a small example of a callback with `setTimeout` or `fetch` to see the timing part in action.
